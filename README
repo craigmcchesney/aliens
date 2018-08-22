@@ -5,3 +5,6 @@ to build the 2 versions of the game, one with a "Star Wars" theme,
 and the other with a "Hunger Games" theme.
 
 These games use python 3.7 and the pygame module.
+
+Run each game by "python3 alien_invasion.py" from inside either the
+starwars or hungergames directories.
