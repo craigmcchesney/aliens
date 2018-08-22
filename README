@@ -1,0 +1,7 @@
+This repo contains 2 different versions of "alien invasion", as
+presented in the book "Python Crash Course" by Eric Matthes.  I used
+the book to teach python to some high school students, and we decided
+to build the 2 versions of the game, one with a "Star Wars" theme,
+and the other with a "Hunger Games" theme.
+
+These games use python 3.7 and the pygame module.
